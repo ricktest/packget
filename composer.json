@@ -1,0 +1,16 @@
+{
+    "name": "user/hello",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app/",
+            "Virtualorz\\Hellow\\": "packages/virtualorz/hello/src"
+        }
+    },
+    "authors": [
+        {
+            "name": "huang",
+            "email": "newrobert20485@gmail.com"
+        }
+    ],
+    "require": {}
+}
