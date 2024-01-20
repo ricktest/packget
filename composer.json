@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "ws_ky_huang/hello": "1.0.0"
+        "huangchengyu/helloTest": "1.0.0"
     }
 }
