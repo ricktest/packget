@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "huangchengyu/hellotest": "1.0.0"
+        "ws_ky_huang/hello": "1.0.0"
     },
     "minimum-stability": "stable"
 }
