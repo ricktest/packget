@@ -12,5 +12,7 @@
             "email": "newrobert20485@gmail.com"
         }
     ],
-    "require": {}
+    "require": {
+        "ws_ky_huang/hello": "1.0.0"
+    }
 }
