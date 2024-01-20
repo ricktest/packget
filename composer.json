@@ -13,6 +13,6 @@
         }
     ],
     "require": {
-        "huangchengyu/helloTest": "1.0.0"
+        "huangchengyu/hellotest": "1.0.0"
     }
 }
