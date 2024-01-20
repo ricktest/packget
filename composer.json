@@ -1,5 +1,5 @@
 {
-    "name": "user/hello",
+    "name": "ws_ky_huang/hello",
     "autoload": {
         "psr-4": {
             "App\\": "app/",
