@@ -14,7 +14,8 @@
         }
     ],
     "require": {
-        "alexndreazevedo/egoi-api-php": "dev-master"
+        "alexndreazevedo/egoi-api-php": "*"
     },
-    "minimum-stability": "dev"
+    "minimum-stability": "dev",
+    "prefer-stable": true
 }
