@@ -14,6 +14,6 @@
         }
     ],
     "require": {
-        "ws_ky_huang1/hello": "dev-master"
+        "monolog/monolog": "2.0.*"
     }
 }
