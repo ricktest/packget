@@ -15,7 +15,7 @@
         }
     ],
     "require": {
-        "huangchengyu/hello": "1.0.0"
+        "alexndreazevedo/egoi-api-php": "dev-master"
     },
-    "minimum-stability": "stable"
+    "minimum-stability": "dev"
 }
